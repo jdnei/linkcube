@@ -14,3 +14,10 @@ LinkCube（绿叶机场）是一家提供全球网络加速服务的平台，采
 | 轻量套餐 | ￥15.00 | 月付 | 100GB/月 | 1000Mbps | 深圳香港、上海日本、北京德国 | 50+ | BGP 接入点、国际专线传输、流媒体全面解锁、全平台设备支持、标准技术支持 | 支付宝、微信、USDT | 轻量使用者、个人使用 |
 | 标准套餐 | ￥160.00 | 半年付 | 300GB/月 | 1000Mbps | 深圳香港、上海日本、北京德国 | 50+ | BGP 接入点、国际专线传输、流媒体全面解锁、全平台设备支持、标准技术支持 | 支付宝、微信、USDT | 多设备使用者、影音爱好者 |
 | 大流量套餐 | ￥460.00 | 半年付 | 900GB/月 | 1000Mbps | 深圳香港、上海日本、北京德国 | 50+ | BGP 接入点、国际专线传输、流媒体全面解锁、全平台设备支持、标准技术支持 | 支付宝、微信、USDT | 游戏更新、音视频下载、家庭使用 |
+## 📊 性能实测与分析  
+#### 1.晚高峰测速表现  
+![image](https://github.com/jdnei/linkcube/blob/main/linkcube/20260712_6a52769d919b3.jpg?raw=ture)  
+#### 2.流媒体解锁报告  
+![image](https://github.com/jdnei/linkcube/blob/main/linkcube/20260712_6a52769d919b3.jpg?raw=ture)    
+#### 3.落地入口分析  
+![image](https://github.com/jdnei/linkcube/blob/main/linkcube/20260712_6a527720b82f4.png?raw=ture)
