@@ -1,5 +1,5 @@
 
-# LinkCube绿叶机场官方地址（2026年7月13日更新）
+# LinkCube绿叶机场官方地址(2026年7月13日更新)
 LinkCube绿叶机场官网地址</br>
 最新地址：[linkcube.org](https://linkcube.org/aff.php?aff=4223)</br>
 官方地址：[711-cloud.net](https://711-cloud.net/)</br>
