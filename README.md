@@ -1,8 +1,15 @@
 
-# LinkCube绿叶机场官方地址(2026年8月6日更新)
-LinkCube绿叶机场官网地址</br>
+# LinkCube绿叶机场 专线机场 官方地址(2026年8月6日更新)
+LinkCube绿叶机场 专线机场 官网地址</br>
 最新地址：[linkcube.org](https://linkcube.org/aff.php?aff=4223)</br>
 官方地址：[711-cloud.net](https://711-cloud.net/)</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## 简介
 LinkCube，也称绿叶机场，一家老牌大机场，专线节点，BGP 入口。曾用名便利店机场，还有一个 711 相关的网址。</br>
 LinkCube（绿叶机场）是一家提供全球网络加速服务的平台，采用 Trojan 协议，覆盖20多个国家和地区，支持 Windows、macOS、iOS、Android 等多平台客户端。</br>
