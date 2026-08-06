@@ -1,3 +1,6 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 
 # LinkCube绿叶机场 专线机场 官方地址(2026年8月6日更新)
 LinkCube绿叶机场 专线机场 官网地址</br>
