@@ -2,7 +2,7 @@
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 
-# LinkCube绿叶机场 专线机场 官方地址(2026年8月12日更新)
+# LinkCube绿叶机场 专线机场 官方地址(2026年8月13日更新)
 LinkCube绿叶机场 专线机场 官网地址</br>
 最新地址：[linkcube.org](https://to.iix.im/ly02)</br>
 官方地址：[711-cloud.net](https://to.iix.im/ly01)</br>
