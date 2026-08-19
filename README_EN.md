@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# LinkCube GreenLeaf Dedicated-Line VPN Official Address (Updated August 18, 2026)
+# LinkCube GreenLeaf Dedicated-Line VPN Official Address (Updated August 19, 2026)
 
 LinkCube GreenLeaf Dedicated-Line VPN Official Website Address</br>
 Latest Address: [linkcube.org](https://to.iix.im/ly02)</br>
